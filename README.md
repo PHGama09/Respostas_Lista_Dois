@@ -16,9 +16,3 @@ O sistema implementado é capaz de:
 3. **Gerar FND**: Converte sentenças para a Forma Normal Disjuntiva.
 4. **SAT Solver**: Verifica a satisfatibilidade de sentenças em FNC.
 5. **Verificar Negação**: Identifica se uma sentença é a negação exata de outra.
-
-## 🚀 Como usar
-1. Certifique-se de ter o Python instalado.
-2. Execute o arquivo principal:
-   ```bash
-   python sistema_logico.py
