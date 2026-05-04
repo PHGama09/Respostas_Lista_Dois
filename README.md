@@ -1,5 +1,5 @@
 # Lista de Exercícios: Lógica Aplicada á Computação
-Professor Evandro Barros
+## Professor Evandro Barros
 
 Este repositório contém a resolução da **Lista 2 de Exercícios de Lógica** do Prof. Evandro Costa. O conteúdo está dividido entre resoluções teóricas e a implementação de um sistema para manipulação de lógica proposicional.
 
