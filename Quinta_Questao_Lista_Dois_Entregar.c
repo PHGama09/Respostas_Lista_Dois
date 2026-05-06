@@ -5,10 +5,6 @@
 #define M 202
 #define m 5
 
-/* =========================================================
-   CÓDIGO ORIGINAL DO ALUNO — NÃO MODIFICADO
-   ========================================================= */
-
 typedef struct operator
 {
     int unability;
@@ -186,11 +182,6 @@ void reading(char sent_i[], char sent_f[], int *k, int *l, operator op[])
     *l = j;
     free_stack(stack, NULL);
 }
-
-/* =========================================================
-   FIM DO CÓDIGO ORIGINAL
-   ========================================================= */
-
 
 /* =========================================================
    SEÇÃO 1 — AST (Árvore Sintática Abstrata)
