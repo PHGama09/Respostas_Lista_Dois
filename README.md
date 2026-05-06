@@ -1,4 +1,4 @@
-# Lista de Exercícios: Lógica Aplicada á Computação (Contém instruções sobre o alfabeto do código da queatao 5)
+# Lista de Exercícios: Lógica Aplicada á Computação (Contém instruções sobre o alfabeto do código da questão 5)
 ## Professor Evandro Costa
 
 Este repositório contém a resolução da **Lista 2 de Exercícios de Lógica** do Prof. Evandro Costa. O conteúdo está dividido entre resoluções teóricas e a implementação de um sistema para manipulação de lógica proposicional.
