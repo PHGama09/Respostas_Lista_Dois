@@ -5,7 +5,7 @@ Este repositório contém a resolução da **Lista 2 de Exercícios de Lógica**
 
 ## 📂 Estrutura do Repositório
 
-- `respostas_questoes_1_a_4.png`: Imagem com as alternativas assinaladas e as justificativas lógicas para as questões 1, 2, 3 e 4.
+- Imagens com as alternativas assinaladas e as justificativas lógicas para as questões 1, 2, 3 e 4 nos respectivos arquivos.
 - `Quinta_Questao_Lista_Dois_Entregar`: Código-fonte que resolve os itens da questão 5.
 
 ## 💻 Funcionalidades do Software (Questão 5)
