@@ -17,3 +17,4 @@ O sistema implementado é capaz de:
 4. **SAT Solver**: Verifica a satisfatibilidade de sentenças em FNC.
 5. **Verificar Negação**: Identifica se uma sentença é a negação exata de outra.
 6. ! equivale a operação de negação, * equivale a operação E, + equivale a operação OU, > equivale a implicação e - equivale a bi implicação.
+7. Os átomos e sentenças devem ser digitados em letras maiusculas. Exemplo A, B, !A, !(A*B) e etc.
